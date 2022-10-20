@@ -18,7 +18,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className='button button--secondary button--lg'
-            to='/docs/intro'
+            to='/docs/Defi-basics/Clever'
           >
             <Translate description='The homepage main heading'>
               Docusaurus Tutorial - 5min ⏱️
