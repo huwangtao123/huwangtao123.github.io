@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 [Source](https://docs.aladdin.club/clever 'Permalink to CLever - AladdinDAO')
 
 CLever gives CVX holders a continuous, automated way to harvest bribes and rewards AND allows users to claim their future bribes and rewards today.

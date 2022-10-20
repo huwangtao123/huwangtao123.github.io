@@ -72,7 +72,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Defi-basics/Clever',
             position: 'left',
             label: 'Tutorial'
           },
@@ -96,7 +96,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro'
+                to: '/docs/Defi-basics/Clever'
               }
             ]
           },

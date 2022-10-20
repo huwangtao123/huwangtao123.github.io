@@ -1,4 +1,8 @@
-## CLever 的过渡出测试版和更多
+---
+title: CLever过渡出测试版和更多
+authors: AladdinDao
+tags: [Clever]
+---
 
 [来源](https://medium.com/@0xC_Lever/clevers-transition-out-of-beta-and-more-2b0a27b4bf51 'Permalink to CLever's Transition Out of Beta and More' )
 

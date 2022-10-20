@@ -1,6 +1,14 @@
+---
+slug: CLever
+title: CLever's Transition Out of Beta and More
+authors: AladdinDao
+tags: [CLever]
+---
+
 # CLever’s Transition Out of Beta and More
 
-[Source](https://medium.com/@0xC_Lever/clevers-transition-out-of-beta-and-more-2b0a27b4bf51 'Permalink to CLever’s Transition Out of Beta and More')
+[Source](https://medium.com/@0xC_Lever/clevers-transition-out-of-beta
+-and-more-2b0a27b4bf51 'Permalink to CLever’s Transition Out of Beta and More')
 
 Last week the CLEV token offering kicked off, and it raised the maximum of 100,000 CVX in the span of a bit less than 5 minutes. Wow! Full success for the offering has kicked off CLever’s transition out of beta mode, launching a series of events that starts with Clever CVX and leads to the inception of Clever USD and Clever CRV in partnership with Frax finance and Stake DAO respectively. There are a lot of moving pieces and details to share with the community, so buckle up!
 
