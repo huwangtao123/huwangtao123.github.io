@@ -1,5 +1,5 @@
 ---
-slug: A step-to-step Guide to use Clever Protocol
+slug: GuideForClever
 title: A step-to-step Guide to use Clever Protocol for completely beginner
 authors: taowang
 tags: [CLever]
