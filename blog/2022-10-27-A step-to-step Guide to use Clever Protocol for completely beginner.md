@@ -3,6 +3,7 @@ slug: GuideForClever
 title: A step-to-step Guide to use Clever Protocol for completely beginner
 authors: taowang
 tags: [CLever]
+comments: true
 ---
 
 In this tutorial, you'll learn the basic Defi concept and how to use the different investment options in Clever Protocol.
