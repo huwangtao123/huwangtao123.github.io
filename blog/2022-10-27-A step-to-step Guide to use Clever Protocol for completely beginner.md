@@ -11,7 +11,7 @@ Let's start with How Clever protocol works
 
 ![](https://pbs.twimg.com/media/FdaZl10WIAAsFi9?format=jpg&name=medium)
 
-The Key Feature:
+## The Key Feature:
 
 - $clevCVX represents future $CVX yield 1:1
 - Mint up to 50% of deposited amount.
@@ -27,17 +27,17 @@ https://twitter.com/iamllanero/status/1584947322948964358
 ![](https://i.imgur.com/dJh3fL7.png)
 Target Customer: Use the Clever to gain more CVX.
 
-    Step1: I have 100 $CVX that I deposit into CLever. This gives me the immediate ability to claim 500 clevCVX. My current position is:
+Step 1: I have 100 $CVX that I deposit into CLever. This gives me the immediate ability to claim 500 clevCVX. My current position is:
 
-     - 1000 CVX deposited
-     - 0 clevCVX owed
-     - 500 clevCVX claimable
+- 1000 CVX deposited
+- 0 clevCVX owed
+- 500 clevCVX claimable
 
-    Step 2: After I claim all 500 clevCVX, my position is:
+Step 2: After I claim all 500 clevCVX, my position is:
 
-     - 1000 CVX deposited
-     - 500 clevCVX owed
-     - 0 clevCVX claimable
+- 1000 CVX deposited
+- 500 clevCVX owed
+- 0 clevCVX claimable
 
 ![](https://i.imgur.com/JuhEw4e.png)
 Step 3: I decide to deposit my clevCVX 500 into the Furnace, my position is:
@@ -72,7 +72,9 @@ Step 2: After deposit, Approve& Deposit the clevCVX_CVX into CLever farming page
 ![](https://i.imgur.com/ubdgWzT.png)
 Step 3: Optional you can also use the Zap option, to deposit only one token from the following list CLevCVX, CVX, WETH, ETH, USDC.
 
-Step 4: You can boost your Curve LP pool by lock your ClevCVX as veCLEV. You can know min veCLEV for max boost
+![](https://i.imgur.com/sUBGrso.png)
+![](https://i.imgur.com/1fqR9Vo.png)
+Step 4: You can boost your Curve LP pool by lock your ClevCVX as veCLEV. You can know min veCLEV for max boost. 1 ClevCVX lock for 4 years = 1 veCLEV.
 
 ## 3. LP farmer in a Curve ETH/CLEV
 
@@ -85,3 +87,20 @@ Step 2: After deposit, Approve& Deposit the ETH_CLEV into CLever farming page
 Step 3: Optional you can also use the Zap option, to deposit only one token from the following list CLEV, WETH, ETH, USDC.
 
 Step 4: You can boost your Curve LP pool by lock your ClevCVX as veCLEV. You can know min veCLEV for max boost
+
+## Extra How to watch your funds in CLever CVX
+
+Use the Debank to check the protocol
+
+Took llanero's debank account as example
+
+![](https://i.imgur.com/zfzyjXV.png)
+
+Summary:
+
+- CVX locked: 10000
+- ClevCVX Owned: 5000
+- veCLEV for boosting: ~3000
+- Farming ETH/CLEV: 14.16 ETH + 2175.92 CLEV
+- No Farming info for ClevCVX/CVX in curve
+- No Famring info for ClevCVX/CVX in Balancer
