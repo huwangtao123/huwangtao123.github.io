@@ -37,21 +37,19 @@ const config = {
   presets: [
     [
       'classic',
+      {
+        googleAnalytics: {
+          trackingID: 'G-6124YDVKY5',
+          anonymizeIP: true
+        }
+      },
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/huwangtao123/huwangtao123.github.io/tree/master/docs'
+          sidebarPath: require.resolve('./sidebars.js')
         },
         blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/huwangtao123/huwangtao123.github.io/tree/master/blog'
+          showReadingTime: true
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css')
@@ -131,8 +129,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme
+        theme: darkCodeTheme,
+        lightTheme: lightCodeTheme
       }
     })
 };
