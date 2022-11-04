@@ -3,6 +3,7 @@ slug: CLever
 title: CLever's Transition Out of Beta and More
 authors: AladdinDao
 tags: [CLever]
+enableComments: true
 ---
 
 # CLever’s Transition Out of Beta and More

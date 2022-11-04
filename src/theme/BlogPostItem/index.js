@@ -1,7 +1,7 @@
 import React from 'react';
 import { useBlogPost } from '@docusaurus/theme-common/internal';
 import BlogPostItem from '@theme-original/BlogPostItem';
-import GiscusComponent from '@site/src/components/GiscusComponent';
+import GiscusComponent from '../../components/GiscusComponent';
 import useIsBrowser from '@docusaurus/useIsBrowser';
 
 export default function BlogPostItemWrapper(props) {
@@ -12,11 +12,10 @@ export default function BlogPostItemWrapper(props) {
   const { enableComments } = frontMatter;
 
   // Workaround from https://docusaurus.io/docs/advanced/ssg for the Error 'ReferenceError: window is not defined' during the build
-  var isCurrentUrlBlog = false;
+  let isCurrentUrlBlog = false;
   if (isBrowser) {
     isCurrentUrlBlog = window.location.pathname === '/blog';
   }
-
   return (
     <>
       <BlogPostItem {...props} />
