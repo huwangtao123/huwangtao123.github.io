@@ -37,12 +37,6 @@ const config = {
   presets: [
     [
       'classic',
-      {
-        googleAnalytics: {
-          trackingID: 'G-6124YDVKY5',
-          anonymizeIP: true
-        }
-      },
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
@@ -53,6 +47,10 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css')
+        },
+        googleAnalytics: {
+          trackingID: 'G-6124YDVKY5',
+          anonymizeIP: true
         }
       })
     ]
