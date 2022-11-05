@@ -23,6 +23,8 @@ Investment Options
 Mainly visulize the tweet thread from @lLANERO https://twitter.com/iamllanero/status/1585758590295429120
 https://twitter.com/iamllanero/status/1584947322948964358
 
+<!--truncate-->
+
 ## 1. Easy Mode (Deposit in Furnance)
 
 ![](https://i.imgur.com/dJh3fL7.png)

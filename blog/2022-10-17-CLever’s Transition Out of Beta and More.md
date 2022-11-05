@@ -17,6 +17,8 @@ Last week the CLEV token offering kicked off, and it raised the maximum of 100,0
 
 In the immortal words of Harry Connick, Let’s Kick the Tires and Light the Fires, Big Daddy
 
+<!--truncate-->
+
 ## **Launch of the CLEV Token**
 
 CLEV liquidity was launched last Wednesday in a remarkably orderly fashion. All CLEV purchased during the offering was made claimable, and ~12 hours later liquidity mining rewards began. The token is now tradeable on [Curve Finance](https://curve.fi/factory-crypto/140). Please note that this is the **only** officially supported pool, and the only one that can receive CLEV emissions! Pay attention which CLEV pool you use to LP or swap, always check slippage before trading and ask questions in Discord if you’re not sure.

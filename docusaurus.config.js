@@ -43,7 +43,14 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js')
         },
         blog: {
-          showReadingTime: true
+          blogTitle: 'All the blogs related to CLever',
+          showReadingTime: true,
+          postsPerPage: 'ALL',
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'All Blogs',
+          feedOptions: {
+            type: 'all'
+          }
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css')
@@ -60,19 +67,20 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: '',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg'
         },
         items: [
           {
+            label: 'Tutorial',
             type: 'doc',
             docId: 'Defi-basics/Clever',
-            position: 'left',
-            label: 'Tutorial'
+            position: 'left'
           },
           { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/booster', label: 'Booster Program', postion: 'left' },
           {
             href: 'https://github.com/huwangtao123/huwangtao123.github.io',
             label: 'GitHub',

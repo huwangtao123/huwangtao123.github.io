@@ -21,7 +21,7 @@ function HomepageHeader() {
             to='/docs/Defi-basics/Clever'
           >
             <Translate description='The homepage main heading'>
-              Docusaurus Tutorial - 5min ⏱️
+              CLever Tutorial - 5min ⏱️
             </Translate>
           </Link>
         </div>
