@@ -148,6 +148,15 @@ const config = {
       prism: {
         theme: darkCodeTheme,
         lightTheme: lightCodeTheme
+      },
+      announcementBar: {
+        id: 'announcementBarContent',
+        // content: `If you like this space, give it a ⭐️ on <a target="_blank" rel="noopener noreferrer" href="https://github.com/m19v">GitHub</a>`,
+        content:
+          'This space combine all the wiki/blog/tweets and Monthly booster program info for CLever, still under construction',
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: true
       }
     })
 };
