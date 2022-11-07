@@ -69,6 +69,12 @@ const config = {
         gtag: {
           trackingID: 'GT-KFNPNFH',
           anonymizeIP: true
+        },
+        sitemap: {
+          changefreq: 'daily',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml'
         }
       })
     ]
