@@ -163,6 +163,11 @@ const config = {
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: true
+      },
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: true,
+        respectPrefersColorScheme: false
       }
     })
 };
