@@ -79,12 +79,13 @@ export default function Hello() {
   const [collapsed, setCollapsed] = useState(false);
   return (
     <>
-      <Layout title='Hello' description='Hello React Page'>
+      <Layout title='Booster' description='Booster Program Page'>
         <Layout1 style={{ minHeight: '100vh' }}>
           <Sider
             collapsible
             collapsed={collapsed}
             onCollapse={(value) => setCollapsed(value)}
+            style={{ paddingTop: '55px' }}
           >
             <div className='logo' />
             <Menu
