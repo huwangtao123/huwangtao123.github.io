@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[573],{3165:(e,t,n)=>{n.r(t),n.d(t,{default:()=>l});var s=n(7294);const l=function(){return s.createElement(s.Fragment,null,s.createElement("div",null,"UsersList"),s.createElement("h1",null,"UserList Page"))}}}]);
