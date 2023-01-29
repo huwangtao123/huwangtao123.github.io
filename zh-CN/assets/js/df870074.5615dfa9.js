@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[775],{2636:(e,t,n)=>{n.r(t),n.d(t,{default:()=>a});var l=n(7294);const a=function(){return l.createElement(l.Fragment,null,l.createElement("div",null,"TeamList"),l.createElement("h1",null,"TeamList Page"))}}}]);
