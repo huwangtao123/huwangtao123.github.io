@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[587],{3521:e=>{e.exports=JSON.parse('{"label":"Clever","permalink":"/zh-CN/blog/tags/clever","allTagsPath":"/zh-CN/blog/tags","count":1,"unlisted":false}')}}]);
